@@ -1,4 +1,4 @@
-# S3 File Storage Service
+# freightfox - S3 File Storage Service
 
 A Spring Boot REST API to search, upload, and download files stored in AWS S3.
 Each user's files are isolated in their own S3 folder (e.g., `sandy/`).
